@@ -31,10 +31,7 @@ Before you begin, make sure you have the following installed:
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
 
-### Clone the repository
-```bash
-git clone https://github.com/thanveer20/Profile-Deck.git
-cd Profile-Deck
+
 
 ## Set up the Backend
 bash
