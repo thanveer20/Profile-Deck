@@ -3,22 +3,26 @@
 Profile Deck is a full-stack web application developed using React for the frontend and Spring Boot for the backend. It offers a robust platform for user management, including creating, viewing, editing, and deleting user profiles.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
 ## Features
+
 ### Backend (Spring Boot)
 - **RESTful API Endpoints**: Facilitates communication between the frontend and the database.
 - **Database Integration**: Utilizes Spring Data JPA for seamless database operations.
 
 ### Frontend (React)
+
 - **Responsive and Dynamic UI**: Built using React to ensure a smooth, responsive user experience.
 - **State Management**: Employs React Hooks for managing state across the application.
 - **API Integration**: Integrates seamlessly with the backend services.
 
 ### Full Stack
+
 - **Seamless Integration**: Ensures that the frontend and backend work together smoothly.
 - **Modern Development Workflow**: Utilizes current best practices for web development.
 
@@ -29,28 +33,29 @@ Before you begin, make sure you have the following installed:
 - **IDE** that supports Spring Boot and React (e.g., VS Code, IntelliJ IDEA)
 
 ## Getting Started
+
 To get a local copy up and running, follow these simple steps:
 
+## Clone the repository
 
+) ```bash
+git clone https://github.com/thanveer20/Profile-Deck.git
+cd Profile-Deck
 
 ## Set up the Backend
-bash
-Copy code
-# Move to the backend directory
+### Move to the backend directory
 cd backend
-# Install dependencies
+### Install dependencies
 ./mvnw install
-# Start the server
+### Start the server
 ./mvnw spring-boot:run
 
 ## Set up the Frontend
-bash
-Copy code
-# Move to the frontend directory
+### Move to the frontend directory
 cd frontend
-# Install dependencies
+### Install dependencies
 npm install
-# Start the application
+### Start the application
 npm start
 
 ## Contributions
@@ -61,3 +66,7 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
+
+### Thank You !!!
+### Happy Coding...
