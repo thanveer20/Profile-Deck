@@ -7,7 +7,7 @@ Profile Deck is a full-stack web application developed using React for the front
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 
 ## Features
 
@@ -42,20 +42,20 @@ To get a local copy up and running, follow these simple steps:
 git clone https://github.com/thanveer20/Profile-Deck.git
 cd Profile-Deck
 
-## Set up the Backend
-### Move to the backend directory
+### Set up the Backend
+#### Move to the backend directory
 cd backend
-### Install dependencies
+#### Install dependencies
 ./mvnw install
-### Start the server
+#### Start the server
 ./mvnw spring-boot:run
 
-## Set up the Frontend
-### Move to the frontend directory
+### Set up the Frontend
+#### Move to the frontend directory
 cd frontend
-### Install dependencies
+#### Install dependencies
 npm install
-### Start the application
+#### Start the application
 npm start
 
 ## Contributions
