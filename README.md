@@ -39,8 +39,8 @@ To get a local copy up and running, follow these simple steps:
 
 ### Clone the repository
 
-git clone https://github.com/thanveer20/Profile-Deck.git
-cd Profile-Deck
+1) ```bash git clone https://github.com/thanveer20/Profile-Deck.git
+2) cd Profile-Deck
 
 ### Set up the Backend
 #### Move to the backend directory
