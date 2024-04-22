@@ -8,6 +8,7 @@ Profile Deck is a full-stack web application developed using React for the front
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Contributions](#contributions)
+- [Fork The Project](#fork-the-project)
 
 ## Features
 
@@ -38,7 +39,6 @@ To get a local copy up and running, follow these simple steps:
 
 ### Clone the repository
 
-1) ```bash
 git clone https://github.com/thanveer20/Profile-Deck.git
 cd Profile-Deck
 
